@@ -1,0 +1,9 @@
+{
+    "font": "JetBrains Mono 11",
+    "bg_color": "#1e1e2e",
+    "fg_color": "#cdd6f4",
+    "cursor_color": "#f38ba8",
+    "opacity": 0.9,
+    "padding": 15,
+    "scrollback_lines": 10000
+}
